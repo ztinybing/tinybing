@@ -1,0 +1,9 @@
+D:\temp\UnNetZ\UnNetZ\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\UnNetZ\UnNetZ\obj\Debug\Com.Bing.Frm.MainFrm.resources
+D:\temp\UnNetZ\UnNetZ\obj\Debug\Com.Bing.Properties.Resources.resources
+D:\temp\UnNetZ\UnNetZ\obj\Debug\UnNetZ.csproj.GenerateResource.Cache
+D:\temp\UnNetZ\UnNetZ\bin\Debug\UnNetZ.exe
+D:\temp\UnNetZ\UnNetZ\bin\Debug\UnNetZ.pdb
+D:\temp\UnNetZ\UnNetZ\bin\Debug\zip.dll
+D:\temp\UnNetZ\UnNetZ\obj\Debug\UnNetZ.exe
+D:\temp\UnNetZ\UnNetZ\obj\Debug\UnNetZ.pdb
