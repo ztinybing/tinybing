@@ -1,0 +1,10 @@
+D:\temp\ExcelHeper\ExcelHeper\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\ExcelHeper.dll
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\ExcelHeper.pdb
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\NPOI.dll
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\NPOI.OOXML.dll
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\NPOI.OpenXml4Net.dll
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\temp\ExcelHeper\ExcelHeper\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\temp\ExcelHeper\ExcelHeper\obj\Debug\ExcelHeper.dll
+D:\temp\ExcelHeper\ExcelHeper\obj\Debug\ExcelHeper.pdb
